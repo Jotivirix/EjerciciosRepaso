@@ -3,9 +3,15 @@
  * 
  * CURSO: 1º DAM
  * 
- * Repaso8
- * Si pulso en la mitad derecha del rectángulo central,
- * el rectángulo tiene que moverse 20 píxels a la derecha.
+ * Repaso10
+ * Tenemos el rectángulo subdividio en 4 rectangulos a partir
+ * del centro del rectángulo general. Si pulsamos en el rectángulo
+ * superior derecho el rectángulo avanzará hacia arriba y hacia 
+ * la derecha, mientras que si pulsamos en el superior izquierdo
+ * subirá y se moverá hacia la izquierda.
+ * Lo mismo pasa en los rectángulos inferiores, sólo que en vez de
+ * subir, el rectángulo bajará y se moverá en la dirección de la
+ * psoción del rectángulo.
  */
 import java.awt.Color;
 import java.awt.event.MouseEvent;
