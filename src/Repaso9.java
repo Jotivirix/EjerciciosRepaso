@@ -3,9 +3,10 @@
  * 
  * CURSO: 1º DAM
  * 
- * Repaso8
- * Si pulso en la mitad derecha del rectángulo central,
- * el rectángulo tiene que moverse 20 píxels a la derecha.
+ * Repaso9
+ * Si pulso en la mitad superior del rectángulo
+ * este sube 5 pixels y si pulso en la mitad
+ * inferior del rectángulo este baja 5 píxels.
  */
 import java.awt.Color;
 import java.awt.event.MouseEvent;
